@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <shapestore>
     <shape>
-        <number1>How to Learn Java</number1>
-        <number2>Json</number2>
-        <length>Json</length>
-        <area>Json</area>
+        <shapetype>CIRC</shapetype>
+        <number1>10</number1>
+        <number2>30</number2>
+        <length>125.60</length>
+        <area>942.00</area>
+    </shape>
+    <shape>
+        <shapetype>SQUA</shapetype>
+        <number1>20</number1>
+        <number2>20</number2>
+        <length>80.00</length>
+        <area>400.00</area>
+    </shape>
+    <shape>
+        <shapetype>SQUA</shapetype>
+        <number1>2</number1>
+        <number2>22</number2>
+        <length>48.00</length>
+        <area>44.00</area>
     </shape>
 </shapestore>

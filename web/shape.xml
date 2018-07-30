@@ -2,18 +2,13 @@
 
 <shapestore>
     <shape id="1">
-    <shapetype>CIRC</shapetype>
-    <number1>10</number1>
-    <number2>30</number2>
+        <shapetype>CIRC</shapetype>
+        <number1>10</number1>
+        <number2>30</number2>
     </shape>
     <shape id="2">
-    <shapetype>SQUA</shapetype>
-    <number1>20</number1>
-    <number2>20</number2>
-    </shape>
-    <shape id="3">
-    <shapetype>CIRC</shapetype>
-    <number1>100</number1>
-    <number2>0.5</number2>
+        <shapetype>SQUA</shapetype>
+        <number1>20</number1>
+        <number2>20</number2>
     </shape>
 </shapestore>
