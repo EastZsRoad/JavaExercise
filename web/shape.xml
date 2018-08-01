@@ -11,4 +11,9 @@
         <number1>20</number1>
         <number2>20</number2>
     </shape>
+    <shape id="3">
+        <shapetype>SQUA</shapetype>
+        <number1>240</number1>
+        <number2>208</number2>
+    </shape>
 </shapestore>

@@ -56,9 +56,5 @@ public class ShapeOutput {
         this.area = area;
     }
 
-//    @Override
-//    public String toString() {
-//        return "Shape [id=" +  + ", name=" + name + ", author=" + author + ", year=" + year + ", price=" + price + "]";
-//    }
 
 }
