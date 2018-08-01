@@ -16,9 +16,9 @@
     </shape>
     <shape>
         <shapetype>SQUA</shapetype>
-        <number1>10</number1>
-        <number2>10</number2>
-        <length>40.00</length>
-        <area>100.00</area>
+        <number1>240</number1>
+        <number2>208</number2>
+        <length>896.00</length>
+        <area>49920.00</area>
     </shape>
 </shapestore>
